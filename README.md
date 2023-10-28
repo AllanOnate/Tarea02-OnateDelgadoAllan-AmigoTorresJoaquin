@@ -1,5 +1,4 @@
-# Tarea02-OnateDelgadoAllan-TorresAmigoJoaquin-OlmedoNicolas
+# Tarea02-OnateDelgadoAllan-AmigoTorresJoaquin
 ## Integrantes:
-### - Allan Oñate 19.876.832-4
-### - Joaquin Amigo 19.618.166-0
-### - José Olmedo 624622-2
+### - Allan Oñate Delgado 19.876.832-4
+### - Joaquin Amigo Torres 19.618.166-0
